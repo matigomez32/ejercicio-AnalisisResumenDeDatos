@@ -129,7 +129,7 @@ para encontrar el mayor valor.
 
 4.Se calculo el precio promedio por producto usando tuplas, lo que permitio
 detectar que el Laptop tuvo dos precios distintos ($1,567 y $2,000),
-resultando en un promedio ponderado de $1,740.20.
+resultando en un promedio de $1,740.20.
 
 5.Se agruparon los ingresos por dia en un diccionario, donde el dia de mayor
 facturacion fue el 04/02 con $40,176.00 correspondiente a las ventas
