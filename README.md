@@ -1,4 +1,3 @@
-
 Análisis de Ventas 2026
 Proyecto desarrollado en Python que realiza un análisis completo de datos de ventas utilizando estructuras de datos como listas y diccionarios.
 ¿Qué hace el programa?
@@ -19,9 +18,7 @@ python ventas_2026.py
 Archivos
 
 ventas_2026.py — código principal
-Ejercicio Listas,Tuplas y diccionarios.txt — informe con los resultados detallados
+Ejercicio Listas,Tuplas y diccionario.txt — informe con los resultados detallados
 
 
 
-
-¡Mucha suerte con la entrega! 🎉
