@@ -15,9 +15,9 @@ Proyecto desarrollado en Python que realiza un análisis completo de datos de ve
 
 ## Cómo ejecutarlo
 ```
-python ventas_2026.py
+python listas-tuplas-dicc.py
 ```
 
 ## Archivos
-- `ventas_2026.py` — código principal
+- `listas-tuplas-dicc.py` — código principal
 - `Ejercicio Listas,Tuplas y diccionarios.txt` — informe con los resultados detallados
